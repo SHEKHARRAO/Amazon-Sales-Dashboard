@@ -36,7 +36,7 @@ It helps visualize and analyze Amazon sales data, providing insights into key sa
 
 ## 📸 Dashboard Preview:
 
-![Amazon Sales Dashboard](Screenshots/amazon_dashboard.png)
+![Amazon Sales Dashboard](amazon_dashboard.png)
 
 ---
 
